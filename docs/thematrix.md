@@ -72,7 +72,44 @@ A BTW here you can get back to [home](/).
     <h1>This is a header in an HTML-Container.</h1>
     <button>Here we go.</button>
     <label>
-        Datum hier
-        <input type="datetime-local" >
+        Date here: <input type="datetime-local" >
     </label>
 </div>
+
+
+<table>
+<tr>
+<th> Good </th>
+<th> Bad </th>
+<th> Whatever </th>
+</tr>
+<tr>
+<td>
+
+```c++
+int foo() {
+    int result = 4;
+    return result;
+}
+```
+
+</td>
+<td>
+
+```c++
+int foo() { 
+    int x = 4;
+    return x;
+}
+```
+
+</td>
+<td>
+
+A boring text with _cursive_ __big__ text.
+Also, we have `code` inside. Maybe a good Idea.
+[YouTube](https://youtube.com)
+
+</td>
+</tr>
+</table>
