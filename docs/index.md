@@ -1,6 +1,6 @@
 # Home
 
-👋. My name's Richard. On this page I will put some stuff I'm interested and probably also tutorials / step-by-step
+👋. I'm Richard. On this page I will put some stuff I'm interested and probably also tutorials / step-by-step
 instructions to do things... I mean, just knowledge I want to share with the world! Feel free to look at the sources
 on [GitHub](https://github.com/Richard5A/richard5a.github.io/). Have fun!
 
@@ -16,3 +16,5 @@ coming anytime.
 ## Tree
 
 here you'll see a structure of what I did.
+
+- [a markdown functionality test](/thematrix)

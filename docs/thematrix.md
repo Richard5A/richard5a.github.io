@@ -66,7 +66,7 @@ print("Hello World")
 Text that is _cursive_, __fat__, ___fat and cursive___. But also ~~strikethrough~~!
 With that we can make the Text more readable.
 
-A BTW here you can get back to [home](/).
+A BTW here you can get back to [home]().
 
 <div>
     <h1>This is a header in an HTML-Container.</h1>
@@ -113,3 +113,11 @@ Also, we have `code` inside. Maybe a good Idea.
 </td>
 </tr>
 </table>
+
+## Equations
+
+Sometimes you need to do math. Then it's good to show those formulas well formated.
+Like  
+$\sqrt{3x-1}+(1+x)^2$
+### Multiline EQ
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
