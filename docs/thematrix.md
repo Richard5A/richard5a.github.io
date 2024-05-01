@@ -63,9 +63,16 @@ print("Hello World")
 > this is a note. If you want to read it, do that.
 > > This is a note inside a note...
 
-Text that is _cursive_ __fat__ ___fat and cursive___. But also ~~strikethrough~~!
+Text that is _cursive_, __fat__, ___fat and cursive___. But also ~~strikethrough~~!
 With that we can make the Text more readable.
 
 A BTW here you can get back to [home](/).
 
-<dialog open><button>Here we go.</button></dialog>
+<div>
+    <h1>This is a header in an HTML-Container.</h1>
+    <button>Here we go.</button>
+    <label>
+        Datum hier
+        <input type="datetime-local" >
+    </label>
+</div>
