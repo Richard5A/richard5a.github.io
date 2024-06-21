@@ -20,3 +20,6 @@ coming anytime.
 here you'll see a structure of what I did.
 
 - [a markdown functionality test](/thematrix)
+- learn
+  - kotlin
+    - [simple plugin system](/learn/kotlin/simple-plugin-system)
