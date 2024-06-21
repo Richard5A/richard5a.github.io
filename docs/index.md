@@ -11,6 +11,7 @@ favorite operating system for computers because I'm obsessed of WinUI 3.
 
 ## New things
 
+* Me & Open Source - [Read more](/oss)
 coming anytime.
 
 ## Tree
